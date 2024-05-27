@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\12240\Desktop\编译原理\实验\实验项目\Lex_Experiments\04实验四\Experiment04\源.cpp(141,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\12240\Desktop\编译原理\实验\实验项目\Lex_Experiments\04实验四\Experiment04\源.cpp(152,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Experiment04.vcxproj -> C:\Users\12240\Desktop\编译原理\实验\实验项目\Lex_Experiments\04实验四\Experiment04\x64\Debug\Experiment04.exe
